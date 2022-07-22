@@ -10,7 +10,7 @@ export default function AdminPage() {
   }, []);
 
   return (
-    <div className="grid place-items-center bg-white h-screen">
+    <div className="grid place-items-center bg-gray-600 h-screen">
       {isAuthenticated ? (
         <AdminPanel />
       ) : (
