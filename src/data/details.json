@@ -1,0 +1,154 @@
+{
+    "users": [
+        {
+            "name": "Shubham Maurya",
+            "points": 8,
+            "team": "green"
+        },
+        {
+            "name": "Nikita Gupta",
+            "points": 0,
+            "team": "green"
+        },
+        {
+            "name": "Priya Gupta",
+            "points": 1,
+            "team": "green"
+        },
+        {
+            "name": "Rasika",
+            "points": 3,
+            "team": "green"
+        },
+        {
+            "name": "Amit",
+            "points": 0,
+            "team": "green"
+        },
+        {
+            "name": "Anagha Gaonkar",
+            "points": 0,
+            "team": "green"
+        },
+        {
+            "name": "Kaushal Patel",
+            "points": 0,
+            "team": "green"
+        },
+        {
+            "name": "Sachin",
+            "points": 0,
+            "team": "green"
+        },
+        {
+            "name": "Shraddha",
+            "points": 0,
+            "team": "green"
+        },
+        {
+            "name": "Garima",
+            "points": 0,
+            "team": "green"
+        },
+        {
+            "name": "Ankit",
+            "points": 1,
+            "team": "red"
+        },
+        {
+            "name": "Anjali",
+            "points": 7,
+            "team": "red"
+        },
+        {
+            "name": "Vidhi",
+            "points": 3,
+            "team": "red"
+        },
+        {
+            "name": "Anand",
+            "points": 0,
+            "team": "red"
+        },
+        {
+            "name": "Deva",
+            "points": 0,
+            "team": "red"
+        },
+        {
+            "name": "Kunak",
+            "points": 0,
+            "team": "red"
+        },
+        {
+            "name": "Vikram",
+            "points": 0,
+            "team": "red"
+        },
+        {
+            "name": "Harshit",
+            "points": 0,
+            "team": "red"
+        },
+        {
+            "name": "Mitesh",
+            "points": 0,
+            "team": "red"
+        },
+        {
+            "name": "Prachi",
+            "points": 0,
+            "team": "red"
+        },
+        {
+            "name": "Sarthak",
+            "points": 0,
+            "team": "blue"
+        },
+        {
+            "name": "Deependra Dutt",
+            "points": 0,
+            "team": "blue"
+        },
+        {
+            "name": "Grantha",
+            "points": 0,
+            "team": "blue"
+        },
+        {
+            "name": "Mugdha",
+            "points": 0,
+            "team": "blue"
+        },
+        {
+            "name": "Kishor",
+            "points": 0,
+            "team": "blue"
+        },
+        {
+            "name": "Ashraf",
+            "points": 0,
+            "team": "blue"
+        },
+        {
+            "name": "Manas",
+            "points": 0,
+            "team": "blue"
+        },
+        {
+            "name": "Manan",
+            "points": 4,
+            "team": "blue"
+        },
+        {
+            "name": "Parth",
+            "points": 1,
+            "team": "blue"
+        },
+        {
+            "name": "Raj",
+            "points": 0,
+            "team": "blue"
+        }
+    ]
+}
